@@ -5,7 +5,6 @@ background-image: url("http://whytoread.com/wp-content/uploads/2015/03/best-book
     h1,h2,h3,h5 {
     color: white;
 }
-div{
-  
-    text-indent:10%;
+div {
+    text-indent:50px;
 }
