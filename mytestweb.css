@@ -20,4 +20,6 @@ a:link{
     background-color: white;
 }
         
-
+ul#myList {
+    list-style-type:circle;
+}
